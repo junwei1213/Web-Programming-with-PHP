@@ -1,8 +1,3 @@
-<html>
-
-</head>
-
-<body>
 <?php
 $orange = array("red", "yellow");
 $green = array("yellow", "blue");
